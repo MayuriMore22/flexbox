@@ -194,5 +194,15 @@ font-weight:400;
   color: black;
   cursor: pointer;
 }
+    .form .forgetlabel{
+  display: flex;
+    font-size: 15px;
+  line-height: 30px;
+  font-weight: 500; 
+
+  font-family: 'Bree Serif', serif;
+  
+}
+
 
   }
